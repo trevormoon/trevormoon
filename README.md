@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=WELCOME&fontColor=auto%20render&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=WELCOME&fontColor=auto%20render&fontSize=70)
 
 
 안녕하세요 반갑습니다👐<br>
