@@ -40,4 +40,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevormoon&show_icons=true&theme=transparent)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevormoon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=trevormoon&theme=tokyonight&show_icons=true" width="42%" />
+</a>
