@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduinoI&logoColor=white">
-    raspberrypi
 </p>
 
 
