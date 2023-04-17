@@ -16,28 +16,28 @@
 
 <p align="center" display="inline-block">
     💡Language <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white">
 </p>
 
 <p align="center">
     💡Used at least once
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduinoI&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduinoI&logoColor=white">
 </p>
 
 
