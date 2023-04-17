@@ -24,6 +24,10 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
+    💡Data <br>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+</p>
+<p align="center" display="inline-block">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
