@@ -35,6 +35,7 @@
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Fast Api?style=for-the-badge&logo=FastApi&logoColor=#009688">
 </p>
 
 
