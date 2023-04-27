@@ -29,6 +29,7 @@
 <p align="center" display="inline-block">
     💡Data <br>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
