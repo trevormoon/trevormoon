@@ -8,9 +8,8 @@
 <p align="center">
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 문필욱이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
-
-노션 주소 :
-	https://www.notion.so/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873
+    노션 주소 :
+    https://www.notion.so/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873
 	
 	
 <br>
