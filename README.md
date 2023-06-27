@@ -27,12 +27,12 @@
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Data / Visualization <br>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white">
     <img src="https://img.shields.io/badge/WeightsandBiases-FFBE00?style=plastic&logo=weightsandbiases&logoColor=white">
 	
 </p>
@@ -50,12 +50,12 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white">
 </p>
 <p align="center" display="inline-block">
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
- <img src="https://img.shields.io/badge/googlecloud-4285F4?style=plastic&logo=googlecloud&logoColor=white">
+ <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=plastic&logo=amazonaws&logoColor=white">
+ <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=googlecloud&logoColor=white">
 </p>
 
 
