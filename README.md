@@ -50,10 +50,14 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduino&logoColor=white">
-
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
-
 </p>
+<p align="center" display="inline-block">
+ <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
+ <img src="https://img.shields.io/badge/googlecloud-4285F4?style=plastic&logo=googlecloud&logoColor=white">
+</p>
+
+
+
 
 
 
