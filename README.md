@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 </p>
 <p align="center" display="inline-block">
-    💡Data <br>
+    💡Data / Visualization <br>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white">
 </p>
