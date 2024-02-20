@@ -6,7 +6,9 @@
 
 <p align="center">
     👐안녕하세요 반갑습니다👐<br>
-	<br>
+
+ 
+	현재 저는 디지털 컨설턴트로 근무를 하고 있으며, Github에는 개인적으로 관심있는 ML/DL 분야에 대해서 공부와 미니 프로젝트를 기재하고 있습니다.<br>
 	<a href="https://scandalous-freedom-a2d.notion.site/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873?pvs=4">	
 		<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
 	</a>
